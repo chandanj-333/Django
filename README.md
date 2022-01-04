@@ -1,2 +1,2 @@
 # Django
-simple project
+simple project designed in Django
